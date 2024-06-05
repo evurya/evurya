@@ -19,15 +19,6 @@ Evurya est un projet passionnant qui promet d'apporter des innovations et des fo
 
 - **Evurya** - *Créateur* - [GitHub](https://github.com/evurya)
 
-## License
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## Remerciements
-
-- Un grand merci à toutes les personnes qui ont contribué à ce projet.
-- Merci à la communauté open source pour l'inspiration et le soutien.
-
 ---
 
 <div align="center">
@@ -48,4 +39,3 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
     <img src="https://img.shields.io/badge/Join-Our%20Discord-7289DA?style=flat&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/Chat-On%20Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
 </div>
-
