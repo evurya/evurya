@@ -15,40 +15,6 @@ Evurya est un projet passionnant qui promet d'apporter des innovations et des fo
 - [Discord Server](https://discord.gg/blablaland)
 - [Reddit](https://www.reddit.com/user/evurya/)
 
-## Installation
-
-Pour installer et utiliser ce projet, suivez les étapes ci-dessous :
-
-1. Clonez le dépôt :
-    ```bash
-    git clone https://github.com/evurya/evurya.git
-    ```
-
-2. Naviguez dans le répertoire du projet :
-    ```bash
-    cd evurya
-    ```
-
-3. Installez les dépendances :
-    ```bash
-    npm install
-    ```
-
-4. Lancez le projet :
-    ```bash
-    npm start
-    ```
-
-## Contribution
-
-Les contributions sont les bienvenues ! Pour commencer :
-
-1. Forkez le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commitez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez votre branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
-
 ## Auteurs
 
 - **Evurya** - *Créateur* - [GitHub](https://github.com/evurya)
@@ -82,3 +48,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
     <img src="https://img.shields.io/badge/Join-Our%20Discord-7289DA?style=flat&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/Chat-On%20Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
 </div>
+
